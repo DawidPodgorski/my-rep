@@ -1,0 +1,3 @@
+C:/Users/podgo/OneDrive/Desktop/Programy Studia CLION/CLionProjects/PROJEKTY/WARCABY main/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/podgo/OneDrive/Desktop/Programy Studia CLION/CLionProjects/PROJEKTY/WARCABY main/cmake-build-debug-mingw/CMakeFiles/warcaby.dir
+C:/Users/podgo/OneDrive/Desktop/Programy Studia CLION/CLionProjects/PROJEKTY/WARCABY main/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
