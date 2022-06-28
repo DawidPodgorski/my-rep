@@ -1,0 +1,24 @@
+1.Otoczka dla aktywnych pól CORRECT
+2.Zrobienie kolejnego ruchu dla białych *modyfikuj model ruchu dla białych *modyfikuj wyświetlanie CORRECT
+3.wyświetl który gracz teraz gra CORRECT
+4.Implementacja bicia pionem CORRECT
+5.Implementacja zamiany w damę CORRECT
+6.Implementacja ruchu damą CORRECT
+7.Implementacja bicia damą
+	-wyswietl tylko bicia piona ktory byl ostatnioCORRECT
+	-ustaw kolejne pozycje po biciu dla damy CORRECT
+
+8.obsłuż wygraną lub remis CORRECT
+	-obsłuż remis (dodawaj do licznika jesli równy 30 to remis, po wykonaniu dowolnego ruchu lub bicia zeruj licznik)CORRECT
+	-wyswietlanie dla wygranej i remisu (jesli over = true zmodyfikuj wyswietlanie)CORRECT
+	-po podjeciu interakcji zamknij okno lub rozpocznij kolejna rundeCORRECT
+	-jeśli rozpocznij kolejną rudnę to initialStateBoardCORRECT
+
+9.obsłuż menu główne
+	-beggining czyli wybór czy gracz vs gracz or player vs computer CORRECT	
+	-w menu gracz vs computer wybór koloru dla zawodnika CORRECT
+	-zacznij pisanie algorytmu min max CORRECT
+
+MINMAX
+1.struktura gracz CORRECT
+2.zaplanuj metody dla Bota

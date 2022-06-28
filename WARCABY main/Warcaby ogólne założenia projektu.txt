@@ -1,0 +1,31 @@
+-Move
+*who now
+*whetherFieldIsBlack
+*move forward one square diagonally
+*
+
+-Capture
+*jumping an adjecent opponent's to field located diagonally behind him(this square
+must be free)
+*captured pieces are removed from the board after completing their move
+*Pawns can capture both forward and backward
+*In one move you can make more than one capture with the same pawn 
+*Beats are obligatory. When there are several possible captures, the player must 
+take all of them
+
+-Queen when
+*a piece that reaches the last row becomes queen(if player end him move in this field)
+*queens may move any number of spaces forward or back forward or back 
+*stops on any free field after beating
+
+-Others
+first white
+
+-Goals
+WON
+*capturing all the pawns OR 
+*blocking all opponent's pawns OR  
+DRAW
+*each player will make 15 moves with queens without reducing the number of pawns
+
+
